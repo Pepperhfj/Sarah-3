@@ -1,0 +1,26 @@
+p {
+  color:#D98484;
+  border-style:dotted;
+  border-color:#D98484;
+  width:400px;
+  font-size:20px;
+  padding:20px;
+}
+
+h2 {
+  padding:10px;
+  color:#D1B8B8;
+}
+
+button {
+  margin:50px;
+  width:300px;
+  border-width:3px;
+  padding:10px;
+  font-size:20px;
+  border-style:dotted;
+  background-color:white;
+  color:#D98484;
+  border-color:#E8ACAC ;
+  border-radius: 15px;
+}
